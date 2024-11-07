@@ -68,7 +68,8 @@ loginSubmit.addEventListener("click", (event) => {
             // alert("Error: " + error.message)
             alert(errorCode)
         })
-})
+});
+
 
 //sign-in-google
 const googleLoginBtn = document.getElementById("google-login-btn");

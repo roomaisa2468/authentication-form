@@ -6,7 +6,7 @@
     font-family: RobotoSlab;
 }
 .navbar{
-    background-color: #11414d !important;
+    background-color: #1c2c70 !important;
 }
 .navbar-brand{
     color: #ffff;
@@ -15,17 +15,17 @@
     color: #ffff;
 }
 .btn{
-    background-color: #11414d;
+    background-color: #1c2c70;
     color: #ffff;
 }
 .btn:hover{
     background-color: #ffff;
-    color: #11414d;
-    border: 2px solid #11414d;
+    color: #1c2c70;
+    border: 2px solid #1c2c70;
 
 }
 .swal2-confirm{
-    background-color: #11414d;
+    background-color:#1c2c70;
 }
 .images{
     justify-content: space-around;
@@ -36,7 +36,7 @@
     border-radius: 5px;
 }
 .selectedImg{
-    border: 2px solid #11414d;
+    border: 2px solid#1c2c70;
 }
 .card-body{
     /* background-size: cover; */
